@@ -4,9 +4,9 @@ This repository contains all scripts and commands used to  gather information an
 ## Tools & Technologies
 | Name     | Description | Link |
 | -------- | -------------- | ------- |
-| Nmap | Nmap is a network exploration tool used to discover hosts and services on a network and analyze their vulnerabilities. | <a href="https://nmap.org/" target=" _blank" rel="noopenernoreferrer"><img width="48" height="48"  src="https://nmap.org/images/nmap-logo-256x256.png"></a>&nbsp;&nbsp; |
-| Wireshark | Wireshark is a network protocol analyzer that captures and examines network traffic in real-time. |  |
-| Metasploit | Metasploit is a penetration testing framework that provides a collection of exploits, payloads, and auxiliary tools to test vulnerabilities.|  |
+| Nmap | Nmap is a network exploration tool used to discover hosts and services on a network and analyze their vulnerabilities. | <a href="https://nmap.org/" target=" _blank" rel="noopenernoreferrer"><img width="50" height="50"  src="https://nmap.org/images/nmap-logo-256x256.png"></a>&nbsp;&nbsp; |
+| Wireshark | Wireshark is a network protocol analyzer that captures and examines network traffic in real-time. | <a href="https://www.wireshark.org/" target=" _blank" rel="noopenernoreferrer"><img width="50" height="50"  src="https://www.wireshark.org/assets/img/sflogo-front.png"></a>&nbsp;&nbsp; |
+| Metasploit | Metasploit is a penetration testing framework that provides a collection of exploits, payloads, and auxiliary tools to test vulnerabilities.| <a href="https://www.metasploit.com/" target=" _blank" rel="noopenernoreferrer"><img width="50" height="50"  src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg"></a>&nbsp;&nbsp; |
 
 ## Nmap
 * Description TEMPLATE!!!!
