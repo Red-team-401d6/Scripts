@@ -31,6 +31,16 @@ sudo nmap -sS -vS <IP>
 sudo nmap -A -sS -vS <IP>
 ```
 
+* This command encacts a General enumeration on an anonymous session, and provides information such as: Target Information, Enumerating Workgroup/Domain, Nbtstat Information, and a Session Check.
+```{bash}
+enum4linux -a <target>
+```
+
+* This comman is an OS discovery script for checking status and information of a target.
+```{bash}
+sudo nmap -p 445 --script smb-os-discovery <Target>
+```
+
 ## Wireshark
 * Description
 ```{code Language}
