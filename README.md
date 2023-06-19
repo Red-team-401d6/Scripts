@@ -4,9 +4,9 @@ This repository contains all scripts and commands used to  gather information an
 ## Tools & Technologies
 | Name     | Description | Link |
 | -------- | -------------- | ------- |
-| Nmap | Nmap is a network exploration tool used to discover hosts and services on a network and analyze their vulnerabilities. | <img height="38" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"></a>&nbsp;&nbsp; |<a href="https://nmap.org/" target=" _blank" rel="noopenernoreferrer"><img width="48" height="48" src="https://github.com/J-AAT/The-Word/blob/main/github.svg"></a>&nbsp;&nbsp; |
-| Wireshark | Wireshark is a network protocol analyzer that captures and examines network traffic in real-time. | <img height="38" src="https://www.wireshark.org/assets/img/sflogo-front.png"></a>&nbsp;&nbsp; |<a href="https://www.wireshark.org/" target=" _blank" rel="noopenernoreferrer"><img width="48" height="48" src="https://github.com/J-AAT/The-Word/blob/main/github.svg"></a>&nbsp;&nbsp; |
-| Metasploit | Metasploit is a penetration testing framework that provides a collection of exploits, payloads, and auxiliary tools to test vulnerabilities.| <img height="38" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg"></a>&nbsp;&nbsp; |<a href="https://www.metasploit.com/" target=" _blank" rel="noopenernoreferrer"><img width="48" height="48" src="https://nmap.org/images/nmap-logo-256x256.png"></a>&nbsp;&nbsp; |
+| Nmap | Nmap is a network exploration tool used to discover hosts and services on a network and analyze their vulnerabilities. | <img height="38" src="https://nmap.org/images/nmap-logo-256x256.png"></a>&nbsp;&nbsp; |<a href="https://nmap.org/" target=" _blank" rel="noopenernoreferrer"> |
+| Wireshark | Wireshark is a network protocol analyzer that captures and examines network traffic in real-time. | <img height="38" src="https://www.wireshark.org/assets/img/sflogo-front.png"></a>&nbsp;&nbsp; |<a href="https://www.wireshark.org/" target=" _blank" rel="noopenernoreferrer" |
+| Metasploit | Metasploit is a penetration testing framework that provides a collection of exploits, payloads, and auxiliary tools to test vulnerabilities.| <img height="38" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg"></a>&nbsp;&nbsp; |<a href="https://www.metasploit.com/" target=" _blank" rel="noopenernoreferrer"> |
 
 ## Nmap
 * Description TEMPLATE!!!!
