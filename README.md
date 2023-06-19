@@ -1,8 +1,8 @@
 # Script Repo
-Repository contains all script, and commands use to  gatther information and test vulneravilities during Red Team Exercise
+This repository contains all scripts and commands used to  gather information and test vulnerabilities during Red Team Exercise
 
-## Techonoligies Used
-* Namp
+## Technologies Used
+* Nmap
 * Wireshark
 * Metasploit
 
