@@ -9,10 +9,12 @@ This repository contains all scripts and commands used to  gather information an
 | Metasploit | Metasploit is a penetration testing framework that provides a collection of exploits, payloads, and auxiliary tools to test vulnerabilities.| <a href="https://www.metasploit.com/" target=" _blank" rel="noopenernoreferrer"><img width="50" height="50"  src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg"></a>&nbsp;&nbsp; |
 
 ## Nmap
+---
 * Description TEMPLATE!!!!
 ```{code Language}
 command/script here
 ```
+---
 
 * This command was performed on the Network IP address to find all hosts on the network.
 ```{bash}
